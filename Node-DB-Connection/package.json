@@ -1,0 +1,14 @@
+{
+  "name": "node-db-connection",
+  "version": "1.0.0",
+  "description": "Database connection Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.4"
+  }
+}

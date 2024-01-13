@@ -328,16 +328,5 @@
         "stock": 15,
         "image": "vivo_v21e_image1.jpg",
         "description": "Vivo V21e with 256GB storage in Diamond Flare. Stylish design and impressive front-facing camera capabilities."
-    },
-    {
-        "id": 31,
-        "brand": "Realme",
-        "model": "Narzo 30 Pro",
-        "storage": "256GB",
-        "color": "Sword Black",
-        "price": 1999.99,
-        "stock": 10,
-        "image": "realme_narzo_30_pro_image1.jpg",
-        "description": "Realme Narzo 30 Pro with 128GB storage in Sword Black. 5G c onnectivity and high-refresh-rate display."
     }
 ]
