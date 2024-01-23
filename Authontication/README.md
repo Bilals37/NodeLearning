@@ -17,7 +17,7 @@ Make sure you have MongoDB installed locally.
 
 or 
 
-* Install Nodemon then statr the server:
+* Install Nodemon then start the server:
 ###  `npm install -g nodemon`
 ###  `nodemon index.js`
 
